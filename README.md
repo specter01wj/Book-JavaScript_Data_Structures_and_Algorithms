@@ -11,7 +11,7 @@ It is crucial for JavaScript developers to understand how data structures work a
 	<img src="img/cover.jpg" alt="Cover image" style="border: 1px solid black; max-width: 100%; box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.4)">
 </a>
 
-Written Sammie Bae.
+Written by Sammie Bae.
 
 ## Table of Contents
 
