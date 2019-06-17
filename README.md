@@ -1,13 +1,26 @@
 # JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals
 ### January 24, 2019 edition, by Sammie Bae
 
-This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or get your own paperback copy.
+Explore data structures and algorithm concepts and their relation to everyday JavaScript development. A basic understanding of these ideas is essential to any JavaScript developer wishing to analyze and build great software solutions.  
+
+You'll discover how to implement data structures such as hash tables, linked lists, stacks, queues, trees, and graphs. You'll also learn how a URL shortener, such as bit.ly, is developed and what is happening to the data as a PDF is uploaded to a webpage. This book covers the practical applications of data structures and algorithms to encryption, searching, sorting, and pattern matching.
+
+It is crucial for JavaScript developers to understand how data structures work and how to design algorithms. This book and the accompanying code provide that essential foundation for doing so. With JavaScript Data Structures and Algorithms you can start developing your knowledge and applying it to your JavaScript projects today.
+What You'll Learn
+
+Review core data structure fundamentals: arrays, linked-lists, trees, heaps, graphs, and hash-table
+Review core algorithm fundamentals: search, sort, recursion, breadth/depth first search, dynamic programming, bitwise operators
+Examine how the core data structure and algorithms knowledge fits into context of JavaScript explained using prototypical inheritance and native JavaScript objects/data types
+Take a high-level look at commonly used design patterns in JavaScript
+Who This Book Is For
+
+Existing web developers and software engineers seeking to develop or revisit their fundamental data structures knowledge; beginners and students studying JavaScript independently or via a course or coding bootcamp.
 
 <a href="https://www.amazon.com/JavaScript-Data-Structures-Algorithms-Understanding/dp/1484239873">
 	<img src="img/cover.jpg" alt="Cover image" style="border: 1px solid black; max-width: 100%; box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.4)">
 </a>
 
-Written by Marijn Haverbeke.
+Written Sammie Bae.
 
 ## Contents
 
