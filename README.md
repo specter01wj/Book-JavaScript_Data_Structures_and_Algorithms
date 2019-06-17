@@ -55,11 +55,22 @@ Written Sammie Bae.
 |7.| JavaScript Memory Management ||
 || Memory Leaks ||
 |8.| Recursion ||
-|9.| Regular Expressions||
-|10.| Modules||
-|11.| Asynchronous Programming||
-|12.| Project: A Programming Language||
-||**(Part 2: Browser)**||
+|| Rules of Recursion ||
+|| Big-O for Recursion ||
+|| Recursive Call Stack Memory ||
+|9.| Sets ||
+|| Set Operations ||
+|| Other Utility Functions ||
+|10.| Searching and Sorting ||
+|| Searching ||
+|| Sorting ||
+|| JavaScript’s Built-in Sort ||
+|11.| Hash Table ||
+|| Hashing Techniques ||
+|| Implementation ||
+|12.| Stacks and Queues ||
+|| Stacks ||
+|| Queues ||
 |13.| JavaScript and the Browser||
 |14.| The Document Object Model||
 |15.| Handling Events||
