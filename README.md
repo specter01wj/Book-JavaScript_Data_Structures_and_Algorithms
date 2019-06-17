@@ -22,20 +22,39 @@ Existing web developers and software engineers seeking to develop or revisit the
 
 Written Sammie Bae.
 
-## Contents
+## Table of Contents
 
 | No. | Chapters       |
 |:-------:|:--------------:|
 ||Introduction||
-||**(Part 1: Language)**||
-|1.| Values, Types, and Operators||
-|2.| Program Structure||
-|3.| Functions||
-|4.| Data Structures: Objects and Arrays||
-|5.| Higher-order Functions||
-|6.| The Secret Life of Objects||
-|7.| Project: A Robot||
-|8.| Bugs and Errors||
+|1.| Big-O Notation ||
+|| Rules of Big-O Notation ||
+|2.| JavaScript: Unique Parts ||
+|| Scope and Closure ||
+|| Equality and Types ||
+|3.| JavaScript Numbers ||
+|| Number System ||
+|| JavaScript Number Object ||
+|| Random Number Generator ||
+|4.| JavaScript Strings ||
+|| JavaScript String Primitive ||
+|| Regular Expression ||
+|| Encoding ||
+|| String Shortening ||
+|| Encryption ||
+|5.| JavaScript Arrays ||
+|| Iteration ||
+|| Helper Functions ||
+|| JavaScript Functional Array Methods ||
+|| Multi-Dimensional Arrays ||
+|6.| JavaScript Objects ||
+|| JavaScript Object Property ||
+|| Classical Inheritance ||
+|| Prototypical Inheritance ||
+|| Constructor, Public and Private Variables ||
+|7.| JavaScript Memory Management ||
+|| Memory Leaks ||
+|8.| Recursion ||
 |9.| Regular Expressions||
 |10.| Modules||
 |11.| Asynchronous Programming||
