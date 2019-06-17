@@ -3,8 +3,8 @@
 
 This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or get your own paperback copy.
 
-<a href="http://a-fwd.com/com=marijhaver-20&amp;asin-com=1593279507">
-	<img src="img/cover.jpg" alt="Cover image" style="border: 1px solid black; max-width: 100%; box-shadow: 30px 30px 57px rgba(0, 0, 0, 0.4)">
+<a href="https://www.amazon.com/JavaScript-Data-Structures-Algorithms-Understanding/dp/1484239873">
+	<img src="img/cover.jpg" alt="Cover image" style="border: 1px solid black; max-width: 100%; box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.4)">
 </a>
 
 Written by Marijn Haverbeke.
