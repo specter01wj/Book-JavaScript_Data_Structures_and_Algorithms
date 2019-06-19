@@ -102,25 +102,41 @@
 				    return count;
 				}
 
-				a4(10);
+				// a4(10);
 
+				// Multiply Big-Os
+				function a5(n){
+				    var count =0;
+				    for (var i=0;i<n;i++){
+				        count+=1;
+				        console.log(count);
+				        for (var i=0;i<5*n;i++){
+				            count+=1;
+				            console.log(count);
+				        }
+				    }
+				    return count;
+				}
 
-				var removeElement = function(nums, val) {
-					var i = 0;
+				// a5(10);
 
-					for(var j = 0; j < nums.length; j++) {
-						if(nums[j] != val) {
-							nums[i] = nums[j];
-							i++;
-						}
-					}
+				//Polynomial Rule
+				function a6(n){
+				    var count =0;
+				    for (var i=0;i<n*n;i++){
+				        count+=1;
+				        console.log(count);
+				    }
+				    return count;
+				}
 
-					return i;
-				};
+				a6(10);
 
-				var nums = [0,1,2,2,3,0,4,2];
-				var tt1 = removeElement(nums, 2);
-				$('#t1').html('<h2>Inputs: ' + nums + '<br>Results: ' + tt1 + '</h2>');
+				
+
+				// var nums = [0,1,2,2,3,0,4,2];
+				// var tt1 = removeElement(nums, 2);
+				// $('#t1').html('<h2>Inputs: ' + nums + '<br>Results: ' + tt1 + '</h2>');
 			});
 
 			/*sol:
