@@ -51,10 +51,58 @@
 					}
 				}
 
-				exampleLogarithmic(100);
+				//exampleLogarithmic(100);
 
 
+				// Coefficient Rule
+				function a1(n){
+				    var count =0;
+				    for (var i=0;i<n;i++){
+				        count+=1;
+				        console.log(count);
+				    }
+				    return count;
+				}
 
+				function a2(n){
+				    var count =0;
+				    for (var i=0;i<5*n;i++){
+				        count+=1;
+				        console.log(count);
+				    }
+				    return count;
+				}
+
+				function a3(n){
+				    var count =0;
+				    for (var i=0;i<n;i++){
+				        count+=1;
+				        console.log(count);
+				    }
+				    count+=3;
+				    return count;
+				}
+
+				// a1(10);
+				// a2(10);
+				// a3(10);
+
+				// Add Big-Os Up
+
+				function a4(n){
+				    var count =0;
+				    for (var i=0;i<n;i++){
+				        count+=1;
+				        console.log(count);
+				    }
+				    for (var i=0;i<5*n;i++){
+				        count+=1;
+				        console.log(count);
+				    }
+				    return count;
+				}
+
+				a4(10);
 
 
 				var removeElement = function(nums, val) {
