@@ -42,9 +42,16 @@
 					}
 				}
 
-				exampleCubic(20);
+				//exampleCubic(20);
 
+				// O(logn)
+				function exampleLogarithmic(n) {
+					for(var i = 2; i <= n; i *= 2) {
+						console.log(i);
+					}
+				}
 
+				exampleLogarithmic(100);
 
 
 
